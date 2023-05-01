@@ -1,2 +1,2 @@
 # snow
-snow is a pixel art editor
+snow is a web-based pixel art editor
